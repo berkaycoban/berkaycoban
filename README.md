@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Berkay</h1>
-<h4 align="center">jr. software craftsman</h3>
+<h4 align="center">jr. software crafter</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkaycoban&label=Profile%20views&color=0e75b6&style=flat" alt="berkaycoban" /> </p>
 
