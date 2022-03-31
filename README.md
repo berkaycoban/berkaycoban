@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Berkay</h1>
-<h4 align="center">jr. software crafter</h3>
+<h4 align="center">jr. software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkaycoban&label=Profile%20views&color=0e75b6&style=flat" alt="berkaycoban" /> <a href="https://wakatime.com/@42dd4ea1-f5cc-481d-9883-da2be0dadc77"><img src="https://wakatime.com/badge/user/42dd4ea1-f5cc-481d-9883-da2be0dadc77.svg" alt="Total time coded since Aug 11 2020" /></a> </p>
 
