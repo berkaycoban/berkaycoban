@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkaycoban&label=Profile%20views&color=0e75b6&style=flat" alt="berkaycoban" /> <a href="https://wakatime.com/@42dd4ea1-f5cc-481d-9883-da2be0dadc77"><img src="https://wakatime.com/badge/user/42dd4ea1-f5cc-481d-9883-da2be0dadc77.svg" alt="Total time coded since Aug 11 2020" /></a> </p>
 
 
-- 🔭  I’m currently working on **Vue.js** and **React Native**
+- 🔭  I’m currently working on **Vue.js** and **Node.js**
 
 - 💬  Ask me about **Frontend or Backend development**
 
